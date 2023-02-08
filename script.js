@@ -1,15 +1,16 @@
 jwplayer("container").setup({
 
 		    controls: true,
-		    
-		   
-		    stretching: "exactfit",
-		    autostart: false,
+  
+  displaytitle: true,
+  displaydescription: true,
+  abouttext: "Buy Me a Coffee",
+  aboutlink: "   ",
+
 
 		    skin: {
 		    	name: 'Netflix',
 		    },
-
 
 		     
 		    captions: {
